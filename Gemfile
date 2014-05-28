@@ -39,3 +39,4 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'planbcd-rails'
+#gem 'planbcd-rails', path: '../planbcd-rails'

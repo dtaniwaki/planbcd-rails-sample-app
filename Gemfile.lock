@@ -53,7 +53,7 @@ GEM
     mime-types (1.25.1)
     minitest (5.3.4)
     multi_json (1.10.1)
-    planbcd-rails (0.0.2)
+    planbcd-rails (0.0.3)
       rails (>= 3.0, < 5.0)
     polyglot (0.3.4)
     rack (1.5.2)
